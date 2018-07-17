@@ -1,0 +1,11 @@
+Package: SVCM
+Type: Package
+Title: Spatially Varying Coefficient Model 
+Version: 1.0
+Date: 2018-06-24
+Author: Xifeng Wang
+Maintainer: Xifeng Wang<xifeng@live.unc.edu>
+Description: Implement Spatially Varying Coefficient Model in R.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.8)
+LinkingTo: Rcpp
